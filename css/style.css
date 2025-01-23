@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+
+h1, h2, h5 {
+    color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+ul {
+    color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+a {
+    color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+p {
+    color: lightpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+footer {
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-small;
+}
+
+img {
+    border: dashed, 1px, yellow;
+}
